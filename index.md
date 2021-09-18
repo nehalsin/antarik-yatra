@@ -1,11 +1,19 @@
-# Yatra 
+# Antarik Yatra
 
-## Self Purification
+## Journeys for Self Purification 
 
-This page will contain information regarding travel journeys that will encompass environment initiatives as well as other social activities with a unified effort of people in local communities and group of friends.
+Information regarding journeys (some purely on foot), that encompass environmental initiatives and other social activities, with a unified effort of people in local communities and group of friends.
 
-Core aim is/will always be self purification. 
+> Core aim is always self purification as per BhagvadGita 5.11.
 
-## Journeys of Life
+## Upcoming Journeys
 
-- [Antarik-yatra](https://nehalsin.github.io/antarik-yatra/): Dwarika to Badrinath. Tentative Planning May 2022-23. Duration - 1 Year. 
+- **[ANTARIK-PAD-YATRA](https://nehalsin.github.io/antarik-pad-yatra/):
+"Core Team on Foot"**
+
+Dwarika to Badrinath, India. 
+Tentative Plan: 1st May 2022 to 30 April 2023. 
+Duration of Pad-Yatra: About 1 year.
+
+To participate in this Yatra online or offline:
+[**Join the Telegram group**](https://t.me/joinchat/EjnBB0fi2No1NzJl).
