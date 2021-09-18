@@ -11,9 +11,11 @@ Information regarding journeys (some purely on foot), that encompass environment
 - **[ANTARIK-PAD-YATRA](https://nehalsin.github.io/antarik-pad-yatra/):
 "Core Team on Foot"**
 
-Dwarika to Badrinath, India. 
-Tentative Plan: 1st May 2022 to 30 April 2023. 
-Duration of Pad-Yatra: About 1 year.
+**Dwarika to Badrinath**, India. 
+
+**Tentative Plan:** 1st May 2022 to 30 April 2023. 
+
+**Duration of Pad-Yatra:** About 1 year.
 
 To participate in this Yatra online or offline:
 [**Join the Telegram group**](https://t.me/joinchat/EjnBB0fi2No1NzJl).
