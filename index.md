@@ -8,7 +8,7 @@ Information regarding journeys (some purely on foot), that encompass environment
 
 ## Upcoming Journeys
 
-- **[ANTARIK-PAD-YATRA](https://nehalsin.github.io/antarik-pad-yatra/):
+- **[ANTARIK-PAD-YATRA](https://nehalsin.github.io/antarik-padyatra/):
 "Core Team on Foot"**
 
 **Dwarika to Badrinath**, India. 
