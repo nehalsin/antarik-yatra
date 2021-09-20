@@ -18,4 +18,4 @@ Information regarding journeys (some purely on foot), that encompass environment
 **Duration of Pad-Yatra:** About 1 year.
 
 To participate in this Yatra online or offline:
-[**Join the Telegram group**](https://t.me/joinchat/EjnBB0fi2No1NzJl).
+[**Join the Telegram channel**](https://t.me/antarikpadyatra).
