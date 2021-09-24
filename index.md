@@ -8,7 +8,7 @@ Information regarding journeys (some purely on foot), that encompass environment
 
 ## Upcoming Journeys
 
-### Antarik Padyatra
+### [Antarik Padyatra](https://nehalsin.github.io/antarik-padyatra/)
 
 **Core Team on Foot** 
 
