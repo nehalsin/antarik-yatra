@@ -8,14 +8,28 @@ Information regarding journeys (some purely on foot), that encompass environment
 
 ## Upcoming Journeys
 
-- **[ANTARIK-PADYATRA](https://nehalsin.github.io/antarik-padyatra/):
-"Core Team on Foot"**
+### Antarik Padyatra
+
+**Core Team on Foot** 
+
+To participate in these Yatras online or offline:
+[**Join the Telegram channel**](https://t.me/antarikpadyatra).
+
+
+- **[ANTARIK PADYATRA DWARKA TO BADRINATH](https://nehalsin.github.io/antarik-padyatra-dwarka-to-badrinath/)**
+
 
 **Dwarika to Badrinath**, India. 
 
-**Tentative Plan:** 1st May 2022 to 30 April 2023. 
+**Tentative Plan:** 1 May 2022 to 30 April 2023. 
 
-**Duration of Pad-Yatra:** About 1 year.
+**Duration of Padyatra:** About 1 year.
 
-To participate in this Yatra online or offline:
-[**Join the Telegram channel**](https://t.me/antarikpadyatra).
+
+- **[ANTARIK PADYATRA PUNE TO DWARKA](https://nehalsin.github.io/antarik-padyatra-pune-to-dwarka/)**
+
+**Pune to Dwarka**, India. 
+
+**Tentative Plan:** 7 Nov 2021 to 30 April 2022. 
+
+**Duration of Padyatra:** About 6 months.
