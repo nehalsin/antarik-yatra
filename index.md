@@ -33,3 +33,6 @@ To participate in these Yatras online or offline:
 **Tentative Plan:** 7 Nov 2021 to 30 April 2022. 
 
 **Duration of Padyatra:** About 6 months.
+
+## [Guidelines](https://nehalsin.github.io/guidelines/)
+
