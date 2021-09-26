@@ -34,5 +34,5 @@ To participate in these Yatras online or offline:
 
 **Duration of Padyatra:** About 6 months.
 
-## [Guidelines](https://nehalsin.github.io/guidelines/)
+## [Voluntary Spirit Guidelines](https://nehalsin.github.io/voluntary-spirit-guidelines/)
 
