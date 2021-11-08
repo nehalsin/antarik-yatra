@@ -26,13 +26,5 @@ To participate in these Yatras online or offline:
 **Duration of Padyatra:** About 1 year.
 
 
-- **[ANTARIK PADYATRA PUNE TO DWARKA](https://nehalsin.github.io/antarik-padyatra-pune-to-dwarka/)**
-
-**Pune to Dwarka**, India. 
-
-**Tentative Plan:** 7 Nov 2021 to 30 April 2022. 
-
-**Duration of Padyatra:** About 6 months.
-
 ## [Voluntary Spirit Guidelines](https://nehalsin.github.io/voluntary-spirit-guidelines/)
 
