@@ -6,7 +6,7 @@ Information regarding journeys (some purely on foot), that encompass environment
 
 > Core aim is always self purification as per BhagvadGita 5.11.
 
-## Upcoming Journeys
+## Journeys
 
 ### [Antarik Padyatra](https://nehalsin.github.io/antarik-padyatra/)
 
@@ -15,15 +15,7 @@ Information regarding journeys (some purely on foot), that encompass environment
 To participate in these Yatras online or offline:
 [**Join the Telegram channel**](https://t.me/antarikpadyatra).
 
-
-- **[ANTARIK PADYATRA DWARKA TO BADRINATH](https://nehalsin.github.io/antarik-padyatra-dwarka-to-badrinath/)**
-
-
-**Dwarika to Badrinath**, India. 
-
-**Tentative Plan:** 1 May 2022 to 30 April 2023. 
-
-**Duration of Padyatra:** About 1 year.
+- [Day Trek - Dehradun Rural - 17 Dec 2022](https://nehalsin.github.io/dehradun-day-trek/)
 
 
 ## [Voluntary Spirit Guidelines](https://nehalsin.github.io/voluntary-spirit-guidelines/)
